@@ -22,7 +22,6 @@ This project performs data analysis on a Spotify dataset and implements a simple
 ## 🧪 Key Visualizations
 - Heatmap of feature correlations
 - Bar chart: Top 10 most and least popular genres
-- Scatter plot: Valence vs Energy by genre
 - Bar chart: Average duration by genre
 
 ## 🧠 Example Code Snippet
